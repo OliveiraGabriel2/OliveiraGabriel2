@@ -9,7 +9,7 @@ Desde meu início no desenvolvimento em 2021, me tornei um entusiasta da tecnolo
 Atualmente busco oportunidades de estágio que possam expandir meu conhecimento e contribuir para projetos inovadores.
 
 Se eu pudesse me definir em três palavras, seriam: esforçado, perseverante e otimista.
-## Linguagens
+## :computer: Linguagens
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>  
