@@ -32,6 +32,17 @@ Se eu pudesse me definir em três palavras, seriam: esforçado, perseverante e o
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=OliveiraGabriel2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Projetos Destacados
+
+### [Catálogo de Veículos](https://github.com/OliveiraGabriel2/Catalogo-de-Veiculos)
+
+
+### [Desafios Python Alura](https://github.com/OliveiraGabriel2/Alura-Desafios-Python)
+
+
+### [Projeto Restaurantes](https://github.com/OliveiraGabriel2/Lista-restaurante)
+
+
   
 <!--
 ## Contribuições-->
