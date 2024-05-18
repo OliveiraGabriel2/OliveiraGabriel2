@@ -42,6 +42,8 @@ Se eu pudesse me definir em três palavras, seriam: esforçado, perseverante e o
 
 ### [Projeto Restaurantes](https://github.com/OliveiraGabriel2/Lista-restaurante)
 
+### [Projeto Bandas](https://github.com/OliveiraGabriel2/ProjetoBandas)
+
 
   
 <!--
